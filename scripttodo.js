@@ -7,6 +7,7 @@ function addButton() {
     clearText();
 }
 
+
 let todoIsi = document.getElementById("todoIsi");
 let todolist = document.getElementById("todoList");
 
